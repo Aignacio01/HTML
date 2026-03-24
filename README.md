@@ -6,7 +6,7 @@
 </head>
 <body>
 
-<h1>Tu Nombre Completo</h1>
+<h1>Allan Ignacio Núñez González</h1>
 
 <p><strong>Email:</strong> correo</p>
 <p><strong>Teléfono:</strong> +56 9 133</p>
